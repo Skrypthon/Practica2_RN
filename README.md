@@ -165,9 +165,9 @@ Hiperplano 4 = -4.000000e+00x + 5.000000e-01y + 3</div></div><div class="inlineE
 % captar esta informacióno procesarla? Así cómo otra pregunta importante tambien 
 % sería ¿Cómo nuestro sistema nervioso se encarda de archivarla o recordarla?
 % 
-% En el texto en el que nos basaos para hacer esta instrducción se toman varios 
+% En el texto en el que nos basamos para hacer esta instroducción se toman varios 
 % temas interesantes, empezando por el proceso biologico que hace el cuerpo para 
-% captar la información a travez de la retina tambien a cómo los cientificos de 
+% captar la información a traves de la retina tambien a cómo los cientificos de 
 % estos tiempos entre ellos grandes nombres como los de McCulloch,Culbertson,Kleene 
 % y Minsky, tenian grandes teorias númericas o más bien lógicas para tratar de 
 % explicar este proceso de inteligencia medinte la matemática, a su vez había 
@@ -210,6 +210,9 @@ Hiperplano 4 = -4.000000e+00x + 5.000000e-01y + 3</div></div><div class="inlineE
 % misma, sin embargo el proceso es muy similar y creemos que es el que se acoplo 
 % más a lo que utilizamos hoy en día ya que este aprende mediante datos que le 
 % son proporcionado para hacer una clasificación de estos.
+% Bibliografía F. Rosenblatt, “The perceptron: A probabilistic model for 
+% information storage and organization in the brain,” Psycho- logical Review,
+% Vol. 65, pp. 386–408, 1958. 
 %% Objetivos de la práctica
 %% 
 % * Implementar la regla de aprendizaje perceptrón par entradas en $\mathbb{R}^R$
