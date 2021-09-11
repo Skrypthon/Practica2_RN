@@ -165,7 +165,7 @@ Hiperplano 4 = -4.000000e+00x + 5.000000e-01y + 3</div></div><div class="inlineE
 % captar esta informacióno procesarla? Así cómo otra pregunta importante tambien 
 % sería ¿Cómo nuestro sistema nervioso se encarda de archivarla o recordarla?
 % 
-% En el texto en el que nos basamos para hacer esta instroducción se toman varios 
+% En el texto en el que nos basamos para hacer esta introducción se toman varios 
 % temas interesantes, empezando por el proceso biologico que hace el cuerpo para 
 % captar la información a traves de la retina tambien a cómo los cientificos de 
 % estos tiempos entre ellos grandes nombres como los de McCulloch,Culbertson,Kleene 
